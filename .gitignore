@@ -1,0 +1,57 @@
+## [ .NET / C# ]
+bin/
+obj/
+[Bb]in/
+[Oo]bj/
+*.exe
+*.dll
+*.pdb
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+*.userprefs
+
+## [ Visual Studio ]
+.vs/
+.vscode/
+*.cache
+*.opendb
+*.db-shm
+*.db-wal
+MSVC/
+_ReSharper*/
+*.[Rr]e[Ss]harper
+*.DotSettings.user
+
+## [ .NET MAUI / Xamarin ]
+# Android
+*.apk
+*.aab
+*.dex
+# iOS / MacCatalyst
+[Dd]erived[Dd]ata/
+[Bb]uild/
+*.app
+*.ipa
+*.pkg
+*.framework
+*.xccheckout
+*.xcscmblueprint
+
+## [ Operating Systems ]
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+*-symbol.fingerprint
+
+## [ Secrets & Config ]
+*.pfx
+*.keystore
+appsettings.Development.json
+secrets.json
